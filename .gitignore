@@ -8,3 +8,9 @@ env/
 **/outputs
 **/results
 **/catboost_info
+bin/
+etc/
+lib/
+include/
+share/
+**/.ipynb_checkpoints

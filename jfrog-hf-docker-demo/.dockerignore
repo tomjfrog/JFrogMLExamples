@@ -1,0 +1,11 @@
+README.md
+.git
+.env
+*.md
+__pycache__
+*.pyc
+.pytest_cache
+.venv
+venv
+scripts/
+push_to_jfrog.sh
