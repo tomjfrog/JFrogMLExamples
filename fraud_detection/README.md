@@ -10,6 +10,7 @@ Before starting, ensure you have:
 
 - **Python 3.9-3.11** installed
 - **JFrog account** ([Get started for free](https://jfrog.com/start-free/))
+- **Conda Enviornment Config** [Setup and Orientation](CONDA-INFO.md)
 
 <br>
 
